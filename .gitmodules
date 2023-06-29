@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "caper"]
 	path = caper
-	url = https://github.com/cran/caper
+	url = https://github.com/davidorme/caper
